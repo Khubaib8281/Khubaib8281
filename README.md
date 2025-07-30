@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Khubaib Ahmad</h1>
-<h3 align="center">A Passionate Junior Data Scientist & ML Engineer from Pakistan</h3>
+<h3 align="center">AI/ML Engineer | Data Scientist | MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadkhubaibahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Khubaib8281&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Student Dropout Risk & Behavior Clustering App (Deployed 🚀)**
-- 🌱 I’m learning **NLP, Computer Vision, and MLOps**
-- 💡 I love building production-ready ML apps using **FastAPI, Streamlit, Docker, Airflow, SQL**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Khubaib8281)
-- 💬 Ask me about **Python, SQL, Machine Learning, APIs, Streamlit, FastAPI, ETL Pipelines**
-- 📫 How to reach me **[muhammadkhubaibahmad854@gmail.com]**
+- 🔬 Currently building an **AI-Powered Photo Critique & Enhancement Tool (Launching Soon)**
+- 🤖 Recently built: **Real-time Mask Detector**, **Garbage Classifier**, **Smart Q&A Chatbot**, **Dropout Risk Prediction App**
+- 📚 Diving deeper into **YOLOv8, Vision Transformers, GANs, CLIP, and Diffusion Models**
+- 🧠 Applied AI in **precision agriculture**, published a research paper boosting mango yield by 73%
+- 🛠️ Proficient in deploying models with **FastAPI, Streamlit, Docker, CI/CD**
+- 🧪 Passionate about building intelligent systems that scale using **Airflow, SQL, and cloud tools**
+- 💬 Ask me about **ML Engineering, Deep Learning, Computer Vision, FastAPI, NLP, MLOps, Statistics**
+- 🌐 Portfolio coming soon — projects available at [GitHub](https://github.com/Khubaib8281)
+- 📫 Reach me at: **muhammadkhubaibahmad854@gmail.com**
 
 ---
 
@@ -25,19 +28,27 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data Science & ML:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Machine Learning & AI:**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Deployment & Tools:**  
+**Computer Vision:**  
+YOLOv5 / YOLOv8, ViT, U-Net, ResNet, CLIP, Mask R-CNN (📦 In Progress)
+
+**NLP & LLMs:**  
+Transformers, Q&A Bots, Vector Search, LangChain (📦 Active Projects)
+
+**Deployment & MLOps:**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-**Databases:**  
+**Databases & ETL:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -63,10 +74,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-khubaib-ahmad-" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[muhammadkhubaibahmad854@gmail.com]" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:muhammadkhubaibahmad854@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Khubaib8281" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💡 "Believe in Allah and Your Efforts — Everything is Possible. 🚀"
+### 💡 *“Believe in Allah and Your Efforts — Everything is Possible.”*
