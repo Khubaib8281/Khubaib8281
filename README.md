@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔬 Currently building an **AI-Powered Photo Critique & Enhancement Tool (Launching Soon)**
-- 🤖 Recently built: **Real-time Mask Detector**, **Garbage Classifier**, **Smart Q&A Chatbot**, **Dropout Risk Prediction App**
+- 🔬 Currently building an **AI-EDA Tool (Launching Soon)**
+- 🤖 Recently built: **VigilantEYE-Real-time crowd and violence detector**, **Real-time Confidence Detector**, **Custom Chatbot for Businesses**, **Dropout Risk Prediction App**
 - 📚 Diving deeper into **YOLOv8, Vision Transformers, GANs, CLIP, and Diffusion Models**
 - 🧠 Applied AI in **precision agriculture**, published a research paper boosting mango yield by 73%
 - 🛠️ Proficient in deploying models with **FastAPI, Streamlit, Docker, CI/CD**
