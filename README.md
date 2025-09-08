@@ -33,11 +33,20 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+**Deep Learning & Generative AI**  
+![GANs](https://img.shields.io/badge/GANs-FF1493?style=for-the-badge&logo=generativeai&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-000000?style=for-the-badge&logo=openaigym&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-3333FF?style=for-the-badge&logo=openaigym&logoColor=white)
+![Diffusion](https://img.shields.io/badge/Diffusion-008080?style=for-the-badge&logo=stable-diffusion&logoColor=white)
+
 **Computer Vision**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=roblox&logoColor=black)
 ![ViT](https://img.shields.io/badge/ViT-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-FF7F50?style=for-the-badge&logo=openai&logoColor=white)
+![BLIP](https://img.shields.io/badge/BLIP-20B2AA?style=for-the-badge&logo=deeplearning&logoColor=white)
+![Flamingo](https://img.shields.io/badge/Flamingo-FF69B4?style=for-the-badge&logo=google&logoColor=white)
 
 **NLP & LLMs**  
 ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -52,6 +61,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0066FF?style=for-the-badge&logo=gitlab&logoColor=white)
 
 **Databases & ETL**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
