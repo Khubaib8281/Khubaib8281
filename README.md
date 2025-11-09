@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Khubaib Ahmad</h1>
+<h1 align="center">Hi, I'm Muhammad Khubaib Ahmad</h1>
 <h3 align="center">AI/ML Engineer | Data Scientist | MLOps Enthusiast</h3>
 
 <p align="center">
@@ -7,16 +7,18 @@
 
 ---
 
-### 🚀 About Me  
+### About Me
 
-- 👨‍💻 **AI/ML Engineer** focused on production-ready intelligent systems  
-- 🧑‍🔬 Creator of **DataForge** – automated data quality, cleaning, visualization & reporting (multi-agent AI)  
-- 🔎 Built **VigilantEYE** – real-time crowd & violence detection system  
-- 🗣 Designed **custom chatbots** (LLM + RAG + vector search) for businesses  
-- 📈 Published research: AI for precision agriculture boosting mango yield by **73%**  
-- 🛠 Skilled in **full ML lifecycle**: data pipelines → model training → deployment (FastAPI, Docker, CI/CD)  
-- 📫 Reach me: **muhammadkhubaibahmad854@gmail.com**  
-
+- 👨‍💻 AI/ML Engineer & Research Innovator focused on building end-to-end intelligent systems across speech, vision, and generative AI.
+- 🧠 Currently researching Early Vocal Fatigue Detection using neural embeddings, acoustic features, and machine learning.
+- 🔊 Creator of SpeechSense — a research tool for early vocal fatigue analysis and monitoring.
+- 🧩 Developed DataForge, a multi-agent AI system for automated data analysis, visualization, and reporting.
+- 🎥 Built VigilantEye, a real-time violence detection system using CNNs and live camera feeds.
+- 💬 Designed custom LLM-based chatbots with RAG pipelines, FAISS, and LangChain for business automation.
+- ⚙️ Experienced in full AI lifecycle — from ETL pipelines and Airflow DAGs to FastAPI, Docker, and CI/CD deployment.
+- 🧾 Published research in AI for precision agriculture, achieving up to 73% improvement in yield forecasting.
+- 📦 Published the faker-pk Python library (on PyPI) for generating realistic Pakistani synthetic data for ML demos and app testing.
+- 📫 Reach me at [Gmail](muhammadkhubaibahmad854@gmail.com) or [Kaggle](https://www.kaggle.com/muhammadkhubaibahmad) , [HuggingFace](https://huggingface.co/Khubaib01)
 ---
 
 ### 🛠️ Tech Stack  
@@ -72,10 +74,12 @@
 
 ### 🌟 Featured Projects  
 
-- 🚀 **DataForge** → AI-powered data quality, cleaning, visualization & reporting tool  
-- 👁 **VigilantEYE** → Real-time crowd monitoring & violence detection system  
-- 🤖 **Business Chatbots** → Custom RAG-powered LLM bots for enterprises  
-- 📊 **Confidence Detector** → Real-time CV app for posture & confidence analysis  
+- 🧩 faker-pk (PyPI) → Python library generating realistic Pakistani synthetic data (names, CNICs, phone numbers, addresses) for demos and testing.
+- 🧠 SpeechSense → Research tool for early vocal fatigue detection using neural embeddings, acoustic features, and machine learning.
+- 🚀 DataForge → Multi-agent AI system for automated dataset analysis, cleaning, visualization, and reporting.
+- 👁 VigilantEye → Real-time violence detection system leveraging CNNs and live video feeds for safety monitoring.
+- 💬 KnowledgeBase Chatbot → Contextual LLM + RAG chatbot using LangChain, FAISS, and FastAPI for enterprise automation.
+- 📊 Confidence & Emotion Detector → Multimodal AI model combining computer vision and NLP to interpret human behavior.
 
 ---
 
