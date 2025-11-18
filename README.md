@@ -18,7 +18,7 @@
 - ⚙️ Experienced in full AI lifecycle — from ETL pipelines and Airflow DAGs to FastAPI, Docker, and CI/CD deployment.
 - 🧾 Published research in AI for precision agriculture, achieving up to 73% improvement in yield forecasting.
 - 📦 Published the faker-pk Python library (on PyPI) for generating realistic Pakistani synthetic data for ML demos and app testing.
-- 📫 Reach me at [Gmail](muhammadkhubaibahmad854@gmail.com) or [Kaggle](https://www.kaggle.com/muhammadkhubaibahmad) , [HuggingFace](https://huggingface.co/Khubaib01)
+- 📫 Reach me at [Gmail](muhammadkhubaibahmad854@gmail.com)
 ---
 
 ### 🛠️ Tech Stack  
