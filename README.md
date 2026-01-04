@@ -9,16 +9,17 @@
 
 ### About Me
 
-- 👨‍💻 AI/ML Engineer & Research Innovator focused on building end-to-end intelligent systems across speech, vision, and generative AI.
-- 🧠 Currently researching Early Vocal Fatigue Detection using neural embeddings, acoustic features, and machine learning.
-- 🔊 Creator of SpeechSense — a research tool for early vocal fatigue analysis and monitoring.
-- 🧩 Developed DataForge, a multi-agent AI system for automated data analysis, visualization, and reporting.
-- 🎥 Built VigilantEye, a real-time violence detection system using CNNs and live camera feeds.
-- 💬 Designed custom LLM-based chatbots with RAG pipelines, FAISS, and LangChain for business automation.
-- ⚙️ Experienced in full AI lifecycle — from ETL pipelines and Airflow DAGs to FastAPI, Docker, and CI/CD deployment.
-- 🧾 Published research in AI for precision agriculture, achieving up to 73% improvement in yield forecasting.
-- 📦 Published the faker-pk Python library (on PyPI) for generating realistic Pakistani synthetic data for ML demos and app testing.
-- 📫 Reach me at [Gmail](muhammadkhubaibahmad854@gmail.com)
+- 👨‍💻 AI/ML Engineer & Data Scientist focused on building production-ready AI systems across speech AI, NLP, computer vision, and automation.
+- 🎙️ Actively researching Early Vocal Fatigue Detection using neural speaker embeddings (ECAPA-TDNN), acoustic features, and ML-based scoring.
+- 🔊 Creator of auralis — a research and healthcare-oriented system for vocal fatigue analysis, now exposed as an API service and evolving into a Python library.
+- 🗣️ Built a state-of-the-art Roman Urdu Sentiment Analysis model, handling slang, emojis, and noisy text, and deployed it for real-time inference.
+- 📦 Author of vocalid (PyPI) — a python library which allows users to use their voice as a biometric for the security of private apps, systems and personal assistants.
+- 📦 Author of faker-pk (PyPI) — a synthetic data generation library for Pakistani datasets used in ML demos and testing.
+- 🤖 Designed LLM-powered systems including RAG-based chatbots using LangChain, FAISS, FastAPI, and automation agents.
+- ⚙️ Experienced across the full AI lifecycle — data pipelines, model training, evaluation, APIs, Dockerized deployments, and CI/CD.
+- 📊 Worked on time-series forecasting, anomaly detection, and predictive modeling for applied ML use cases.
+- 🎓 AI & Data Science trainer, focused on hands-on, industry-oriented learning rather than theory-heavy instruction.
+- 📫 Reach me at: muhammadkhubaibahmad854@gmail.com
 ---
 
 ### 🛠️ Tech Stack  
@@ -57,6 +58,18 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/Vector%20DBs-663399?style=for-the-badge&logo=neo4j&logoColor=white)
 
+**Speech AI and Audio ML Stack**
+![Torchaudio](https://img.shields.io/badge/Torchaudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SpeechBrain](https://img.shields.io/badge/SpeechBrain-2C2C2C?style=for-the-badge)
+![ECAPA-TDNN](https://img.shields.io/badge/ECAPA--TDNN-6A1B9A?style=for-the-badge)
+![Librosa](https://img.shields.io/badge/Librosa-FF6F00?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Speaker Embeddings](https://img.shields.io/badge/Speaker_Embeddings-4A148C?style=for-the-badge)
+![Acoustic Features](https://img.shields.io/badge/Acoustic_Features-1E88E5?style=for-the-badge)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-2E7D32?style=for-the-badge)
+
 **Deployment & MLOps**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
@@ -74,12 +87,13 @@
 
 ### 🌟 Featured Projects  
 
+- VocalID (PyPI) → Python library allowing users to use their voice as a biometric to unlock private apps/systems and for personal assitants.
+- Auralis -> MLOps production ready system for vocal fatigue continuous scoring.
+- Roman-Urdu-sentiment-SOTA-model -> A robust sota model for roman urdu sentiment analysis trained on robust data including code-mixed, english-mixed roman urdu texts collected from various social media platforms
 - 🧩 faker-pk (PyPI) → Python library generating realistic Pakistani synthetic data (names, CNICs, phone numbers, addresses) for demos and testing.
 - 🧠 SpeechSense → Research tool for early vocal fatigue detection using neural embeddings, acoustic features, and machine learning.
 - 🚀 DataForge → Multi-agent AI system for automated dataset analysis, cleaning, visualization, and reporting.
 - 👁 VigilantEye → Real-time violence detection system leveraging CNNs and live video feeds for safety monitoring.
-- 💬 KnowledgeBase Chatbot → Contextual LLM + RAG chatbot using LangChain, FAISS, and FastAPI for enterprise automation.
-- 📊 Confidence & Emotion Detector → Multimodal AI model combining computer vision and NLP to interpret human behavior.
 
 ---
 
