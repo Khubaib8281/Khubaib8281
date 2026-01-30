@@ -13,7 +13,7 @@ I am an AI/ML engineer specializing in speech AI, NLP, computer vision, and appl
 
 I am the creator of auralis, a research and healthcare-oriented vocal fatigue analysis system available as an API and Python library Auralis VFS, and the author of vocalid and faker-pk, open-source Python libraries for voice biometrics and synthetic Pakistani datasets.
 
-My work includes Roman Urdu sentiment analysis models, LLM-powered chatbots and automation systems, predictive modeling, forecasting, anomaly detection, and end-to-end AI deployments. I also conduct research in early vocal fatigue detection using neural speaker embeddings (ECAPA-TDNN) and acoustic features.
+My work includes Roman Urdu sentiment analysis models, LLM-powered chatbots and automation systems, predictive modeling, forecasting, anomaly detection, and end-to-end AI deployments. I've also conducted research in early vocal fatigue detection using neural speaker embeddings and acoustic features.
 
 Contact: muhammadkhubaibahmad854@gmail.com
 ---
