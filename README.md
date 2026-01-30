@@ -16,7 +16,7 @@ My work includes Roman Urdu sentiment analysis models, LLM-powered chatbots and 
 Contact: muhammadkhubaibahmad854@gmail.com
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,7 +79,7 @@ Contact: muhammadkhubaibahmad854@gmail.com
 
 ---
 
-### 🌟 Featured Projects  
+### Featured Projects  
 
 - Auralis VFS → Open-source Python library for objective vocal fatigue scoring using ECAPA-TDNN embeddings and acoustic features.
 - VocalID → Python library for voice-based biometric verification, suitable for apps, systems, and personal assistants.
@@ -99,7 +99,7 @@ Contact: muhammadkhubaibahmad854@gmail.com
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khubaib8281&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -115,7 +115,7 @@ Contact: muhammadkhubaibahmad854@gmail.com
 
 ---
 
-### 📫 Connect With Me  
+### Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-khubaib-ahmad-" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
