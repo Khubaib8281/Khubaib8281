@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Khubaib Ahmad</h1>
-<h3 align="center">AI/ML Engineer | Data Scientist | AI Reasearch Innovator</h3>
+<h3 align="center">AI/ML Engineer | Speech AI, NLP, Computer Vision and Applied AI systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Khubaib8281&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,17 +9,11 @@
 
 ### About Me
 
-- 👨‍💻 AI/ML Engineer & Data Scientist focused on building production-ready AI systems across speech AI, NLP, computer vision, and automation.
-- 🎙️ Actively researching Early Vocal Fatigue Detection using neural speaker embeddings (ECAPA-TDNN), acoustic features, and ML-based scoring.
-- 🔊 Creator of auralis — a research and healthcare-oriented system for vocal fatigue analysis, now exposed as an API service and evolving into a Python library.
-- 🗣️ Built a state-of-the-art Roman Urdu Sentiment Analysis model, handling slang, emojis, and noisy text, and deployed it for real-time inference.
-- 📦 Author of vocalid (PyPI) — a python library which allows users to use their voice as a biometric for the security of private apps, systems and personal assistants.
-- 📦 Author of faker-pk (PyPI) — a synthetic data generation library for Pakistani datasets used in ML demos and testing.
-- 🤖 Designed LLM-powered systems including RAG-based chatbots using LangChain, FAISS, FastAPI, and automation agents.
-- ⚙️ Experienced across the full AI lifecycle — data pipelines, model training, evaluation, APIs, Dockerized deployments, and CI/CD.
-- 📊 Worked on time-series forecasting, anomaly detection, and predictive modeling for applied ML use cases.
-- 🎓 AI & Data Science trainer, focused on hands-on, industry-oriented learning rather than theory-heavy instruction.
-- 📫 Reach me at: muhammadkhubaibahmad854@gmail.com
+I am an AI/ML engineer specializing in speech AI, NLP, computer vision, and applied AI systems. I design and deploy production-ready solutions across the full AI lifecycle, including data pipelines, model training, evaluation, API development, and MLOps.
+I am the creator of auralis, a research and healthcare-oriented vocal fatigue analysis system available as an API and Python library Auralis VFS, and the author of vocalid and faker-pk, open-source Python libraries for voice biometrics and synthetic Pakistani datasets.
+My work includes Roman Urdu sentiment analysis models, LLM-powered chatbots and automation systems, predictive modeling, forecasting, anomaly detection, and end-to-end AI deployments. I also conduct research in early vocal fatigue detection using neural speaker embeddings (ECAPA-TDNN) and acoustic features.
+
+Contact: muhammadkhubaibahmad854@gmail.com
 ---
 
 ### 🛠️ Tech Stack  
@@ -87,13 +81,21 @@
 
 ### 🌟 Featured Projects  
 
-- VocalID (PyPI) → Python library allowing users to use their voice as a biometric to unlock private apps/systems and for personal assitants.
-- Auralis -> MLOps production ready system for vocal fatigue continuous scoring.
-- Roman-Urdu-sentiment-SOTA-model -> A robust sota model for roman urdu sentiment analysis trained on robust data including code-mixed, english-mixed roman urdu texts collected from various social media platforms
-- 🧩 faker-pk (PyPI) → Python library generating realistic Pakistani synthetic data (names, CNICs, phone numbers, addresses) for demos and testing.
-- 🧠 SpeechSense → Research tool for early vocal fatigue detection using neural embeddings, acoustic features, and machine learning.
-- 🚀 DataForge → Multi-agent AI system for automated dataset analysis, cleaning, visualization, and reporting.
-- 👁 VigilantEye → Real-time violence detection system leveraging CNNs and live video feeds for safety monitoring.
+- Auralis VFS → Open-source Python library for objective vocal fatigue scoring using ECAPA-TDNN embeddings and acoustic features.
+- VocalID → Python library for voice-based biometric verification, suitable for apps, systems, and personal assistants.
+- Faker-PK → Synthetic data generation library for Pakistani datasets, useful for ML testing and demos.
+- Roman Urdu Sentiment Analysis → State-of-the-art NLP model handling slang, emojis, and noisy text, deployed for real-time inference.
+- Auralis MLOps API → REST API exposing vocal fatigue scoring pipelines for integration into applications.
+- SpeechSense → Research tool for early vocal fatigue detection using neural embeddings, acoustic features, and machine learning.
+- VigilantEye → Real-time violence detection system leveraging CNNs and live video feeds for safety monitoring.
+- DataForge → Multi-agent AI system for automated dataset analysis, cleaning, visualization, and reporting.
+- Real Estate Price Intelligence Platform → Predictive system with SQL playground, dashboards, and automated analytics.
+- Knowledge Base Chatbots → LLM-powered chatbots with retrieval, RAG pipelines, and automation agents.
+- Sales Forecasting System → Time-series forecasting using ARIMA/SARIMAX, deployed with dashboards and automated reporting.
+- Vocalytics → Speech analysis suite measuring energy, fatigue, and vocal spikes, generating clinical-style reports.
+- Confidetect → Desktop application for confidence analysis and session reporting in interviews or presentations.
+- Relationship Chat Analyzer → Analyzes chat logs for emotional contribution, message frequency, and interaction patterns.
+- Generative & Vision AI Tools → Includes LLM fine-tuning (LoRA/QLoRA), ControlNet-guided image generation, sketch-to-image apps, video captioning, and live camera-based violence detection.
 
 ---
 
@@ -122,7 +124,3 @@
 </p>
 
 ---
-
-### 💡 Motto  
-
-<p align="center"><i>"Believe in Allah and your efforts — everything is possible."</i></p>
