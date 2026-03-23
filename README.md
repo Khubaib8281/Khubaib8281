@@ -1,128 +1,154 @@
-<h1 align="center">Hi, I'm Muhammad Khubaib Ahmad</h1>
-<h3 align="center">Applied AI/ML Engineer</h3>
+<h1 align="center">Muhammad Khubaib Ahmad</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khubaib8281&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <strong>AI Research Engineer &nbsp;·&nbsp; Speech & Language Intelligence &nbsp;·&nbsp; NLP &nbsp;·&nbsp; LLM Engineering</strong>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/Khubaib01">
+    <img src="https://img.shields.io/badge/HuggingFace-Khubaib01-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-khubaib-ahmad-">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Khubaib%20Ahmad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadkhubaibahmad854@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Khubaib8281&style=flat-square&color=1A4F8A" alt="Profile Views" />
 </p>
 
 ---
 
-### About Me
+## About
 
-I am an AI/ML engineer specializing in speech AI, NLP, computer vision, and applied AI systems. I design and deploy production-ready solutions across the full AI lifecycle, including data pipelines, model training, evaluation, API development, and MLOps.
+I design and build systems at the intersection of rigorous research and production engineering — specializing in **speech intelligence**, **low-resource NLP**, and **LLM systems**. My work spans representation learning, speaker-invariant embeddings, cross-lingual transfer for underrepresented languages, and end-to-end ML deployment.
 
-I am the creator of auralis, a research and healthcare-oriented vocal fatigue analysis system available as an API and Python library Auralis VFS, and the author of vocalid and faker-pk, open-source Python libraries for voice biometrics and synthetic Pakistani datasets.
+I work as a solo researcher and engineer — owning the full lifecycle from dataset construction and architecture design through to published preprints, live inference APIs, and open-source libraries.
 
-My work includes Roman Urdu sentiment analysis models, LLM-powered chatbots and automation systems, predictive modeling, forecasting, anomaly detection, and end-to-end AI deployments. I've also conducted research in early vocal fatigue detection using neural speaker embeddings and acoustic features.
-
-Contact: muhammadkhubaibahmad854@gmail.com
----
-
-### Tech Stack  
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Machine Learning & AI**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Deep Learning & Generative AI**  
-![GANs](https://img.shields.io/badge/GANs-FF1493?style=for-the-badge&logo=generativeai&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-000000?style=for-the-badge&logo=openaigym&logoColor=white)
-![QLoRA](https://img.shields.io/badge/QLoRA-3333FF?style=for-the-badge&logo=openaigym&logoColor=white)
-![Diffusion](https://img.shields.io/badge/Diffusion-008080?style=for-the-badge&logo=stable-diffusion&logoColor=white)
-
-**Computer Vision**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Mediapipe](https://img.shields.io/badge/MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=roblox&logoColor=black)
-![ViT](https://img.shields.io/badge/ViT-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-FF7F50?style=for-the-badge&logo=openai&logoColor=white)
-![BLIP](https://img.shields.io/badge/BLIP-20B2AA?style=for-the-badge&logo=deeplearning&logoColor=white)
-![Flamingo](https://img.shields.io/badge/Flamingo-FF69B4?style=for-the-badge&logo=google&logoColor=white)
-
-**NLP & LLMs**  
-![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![VectorDB](https://img.shields.io/badge/Vector%20DBs-663399?style=for-the-badge&logo=neo4j&logoColor=white)
-
-**Speech AI and Audio ML Stack**
-![Torchaudio](https://img.shields.io/badge/Torchaudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![SpeechBrain](https://img.shields.io/badge/SpeechBrain-2C2C2C?style=for-the-badge)
-![ECAPA-TDNN](https://img.shields.io/badge/ECAPA--TDNN-6A1B9A?style=for-the-badge)
-![Librosa](https://img.shields.io/badge/Librosa-FF6F00?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Speaker Embeddings](https://img.shields.io/badge/Speaker_Embeddings-4A148C?style=for-the-badge)
-![Acoustic Features](https://img.shields.io/badge/Acoustic_Features-1E88E5?style=for-the-badge)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-2E7D32?style=for-the-badge)
-
-**Deployment & MLOps**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0066FF?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Databases & ETL**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**Research focus areas:**
+- Speaker-invariant speech representations and vocal health modeling
+- Emotion and sentiment analysis for Roman Urdu — a low-resource, code-switched language
+- LLM observability, hallucination detection, and agentic AI systems
+- Applied computer vision for behavioral and safety intelligence
 
 ---
 
-### Featured Projects  
+## Research & Preprints
 
-- Auralis VFS → Open-source Python library for objective vocal fatigue scoring using ECAPA-TDNN embeddings and acoustic features.
-- VocalID → Python library for voice-based biometric verification, suitable for apps, systems, and personal assistants.
-- Faker-PK → Synthetic data generation library for Pakistani datasets, useful for ML testing and demos.
-- Roman Urdu Sentiment Analysis → State-of-the-art NLP model handling slang, emojis, and noisy text, deployed for real-time inference.
-- Auralis MLOps API → REST API exposing vocal fatigue scoring pipelines for integration into applications.
-- SpeechSense → Research tool for early vocal fatigue detection using neural embeddings, acoustic features, and machine learning.
-- VigilantEye → Real-time violence detection system leveraging CNNs and live video feeds for safety monitoring.
-- DataForge → Multi-agent AI system for automated dataset analysis, cleaning, visualization, and reporting.
-- Real Estate Price Intelligence Platform → Predictive system with SQL playground, dashboards, and automated analytics.
-- Knowledge Base Chatbots → LLM-powered chatbots with retrieval, RAG pipelines, and automation agents.
-- Sales Forecasting System → Time-series forecasting using ARIMA/SARIMAX, deployed with dashboards and automated reporting.
-- Vocalytics → Speech analysis suite measuring energy, fatigue, and vocal spikes, generating clinical-style reports.
-- Confidetect → Desktop application for confidence analysis and session reporting in interviews or presentations.
-- Relationship Chat Analyzer → Analyzes chat logs for emotional contribution, message frequency, and interaction patterns.
-- Generative & Vision AI Tools → Includes LLM fine-tuning (LoRA/QLoRA), ControlNet-guided image generation, sketch-to-image apps, video captioning, and live camera-based violence detection.
+> All preprints are publicly available with DOIs. Datasets, model weights, and reproducible artifacts are released alongside each paper.
+
+**Modeling Vocal Fatigue as Embedding-Space Deviation Using Contrastively Trained ECAPA-TDNNs**
+`Preprint · DOI: 10.5281/zenodo.18305757 · Under Review: Springer EURASIP Journal on Advances in Signal Processing`
+Designed ECAPA-TDNN-VHE from scratch using supervised contrastive loss for speaker-invariant vocal fatigue estimation. Achieved 2.5× accuracy improvement over baseline (78% vs. 36%). Independently collected a multi-language, multi-microphone dataset of 90–100 speakers.
+
+**Roman Urdu Emotion Recognition — First-of-Kind Dataset & XLM-R Model**
+`Preprint in preparation · HuggingFace: khubaib01/roman-urdu-emotion-xlmr`
+Built the first emotion recognition dataset and model for Roman Urdu — a completely unaddressed NLP task. Curating 134–140K annotated samples. XLM-R fine-tuned to state-of-the-art performance. Dataset and weights publicly released.
+
+**Data-Centric Roman Urdu NLP: Dataset Curation and Model Benchmarking**
+`Preprint · DOI: 10.5281/zenodo.18080524`
+Built the largest high-quality Roman Urdu sentiment dataset. Trained state-of-the-art classifier achieving 0.84 accuracy and 0.83 Macro-F1.
+
+**Forecast-Based Decision Support System for Mango Malformation Disease**
+`Preprint · DOI: 10.5281/zenodo.16090477 · Ahmad, M.K. & Mangana, A.A.`
+Time-series forecasting pipeline and smart agriculture decision system demonstrating 50–60% yield improvement through data-driven interventions.
 
 ---
 
-### GitHub Stats  
+## Open-Source Libraries
+
+| Library | Description | Status |
+|---|---|---|
+| [`auralis-vfs`](https://github.com/Khubaib8281/auralis) | Objective vocal fatigue scoring from raw speech using ECAPA-TDNN-VHE embeddings | Active |
+| `voicemonitor` | Real-time continuous voice health monitoring built on the Auralis framework | Active |
+| `VocalID` | Voice biometric speaker verification using cosine-similarity embedding evaluation | Active |
+| `DataForge` | Multi-agent system for automated data cleaning, EDA, and report generation | Active |
+
+---
+
+## Selected Projects
+
+**QueryVault — LLM Observability & Hallucination Detection Platform**
+End-to-end LLM observability system with real-time hallucination detection, structured logging, and a developer dashboard tracking hallucination rate, P50/P95 latency metrics, and error events. Integrated local LLM with few-shot learning. Deployed on Streamlit Cloud.
+
+**Confidence & Posture Analysis — Behavioral Intelligence Application**
+Multimodal desktop application combining computer vision and NLP to analyze speaker confidence and posture in real time via webcam using pose estimation and facial cue extraction. Generates structured post-session reports with visualizations of confidence and posture trajectories.
+
+**VigilantEye — Real-Time Violence Detection System**
+Real-time violence detection system operating on live camera feed using a fine-tuned deep learning classification pipeline with instant alert triggering and frame-level logging. Optimized for low-latency inference in surveillance environments.
+
+**Auralis — MLOps Framework & REST API for Vocal Health**
+Containerized production REST API accepting raw audio and returning normalized vocal fatigue scores via the ECAPA-TDNN-VHE encoder. Deployed on Hugging Face Spaces.
+
+**Roman Urdu Sentiment & Emotion Systems**
+State-of-the-art NLP pipelines for sentiment analysis and emotion recognition in Roman Urdu — handling code-switching, slang, and noisy social media text. Models and datasets publicly released on HuggingFace.
+
+---
+
+## Technical Stack
+
+**Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+**Speech & Audio**
+![Torchaudio](https://img.shields.io/badge/Torchaudio-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SpeechBrain](https://img.shields.io/badge/SpeechBrain-2C2C2C?style=flat-square)
+![ECAPA-TDNN](https://img.shields.io/badge/ECAPA--TDNN-6A1B9A?style=flat-square)
+![Librosa](https://img.shields.io/badge/Librosa-FF6F00?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+**NLP & LLMs**
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![XLM-R](https://img.shields.io/badge/XLM--R-0066CC?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+
+**LLM Engineering**
+![LoRA](https://img.shields.io/badge/LoRA-000000?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-3333FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-663399?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)
+
+**Computer Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![CLIP](https://img.shields.io/badge/CLIP-FF7F50?style=flat-square&logo=openai&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FFCC00?style=flat-square&logo=google&logoColor=black)
+
+**Deployment & Infrastructure**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khubaib8281&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khubaib8281&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khubaib8281&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khubaib8281&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khubaib8281&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khubaib8281&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### Connect With Me  
-
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-khubaib-ahmad-" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muhammadkhubaibahmad854@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Khubaib8281" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <sub>All published models, datasets, and libraries are available on this profile and at <a href="https://huggingface.co/Khubaib01">huggingface.co/Khubaib01</a></sub>
 </p>
-
----
