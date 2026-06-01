@@ -21,7 +21,7 @@
 
 ## About
 
-AI Research Engineer and founder of [Inference Lab](https://www.linkedin.com/company/inference-lab-), an applied AI research and engineering organization based in Multan, Pakistan.
+AI Research Engineer and founder of [INFERENCE LAB](https://www.linkedin.com/company/inference-lab-), an applied AI research and engineering organization based in Multan, Pakistan.
 
 My work is end-to-end: dataset construction, architecture design, model development, evaluation, and deployment as usable software. I work across low-resource NLP, speech intelligence, LLM systems, and production AI deployment — owning the full lifecycle from raw data through published research and live inference APIs.
 
