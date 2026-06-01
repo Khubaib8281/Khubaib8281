@@ -34,7 +34,7 @@ All research is released publicly with reproducible pipelines, deployable infere
 > Datasets, model weights, and reproducible artifacts are released alongside each paper.
 
 **RUEmoCorp: A Large-Scale Roman Urdu Corpus and Benchmark Suite for Emotion Classification**
-`Under Review — Language Resources and Evaluation (Springer) · Preprint: ResearchSquare (under prescreening)`
+`Under Review — Language Resources and Evaluation (Springer) · Preprint: ResearchSquare (10.21203/rs.3.rs-9759243/v1)`
 Construction of the largest Roman Urdu emotion recognition corpus to date. Introduces a cross-institute annotation validation framework with structured annotator roles, multi-round calibration, and inter-annotator agreement measurement. Benchmarks multiple model architectures. Dataset released on HuggingFace and Harvard Dataverse.
 
 **Continuous Vocal Load Monitoring in Professional Voice Users: Development and Occupational Validation of an Automated Assessment Tool**
@@ -48,6 +48,10 @@ Novel framing of vocal fatigue detection as deviation measurement in speaker emb
 **Data-Centric Roman Urdu NLP: High-Quality Dataset Curation, Privacy-Preserving Embeddings, and State-of-the-Art Model Benchmarking**
 `Preprint · DOI: 10.5281/zenodo.18080524`
 Comprehensive data-centric study of Roman Urdu NLP infrastructure gaps. Covers dataset curation methodology, privacy-preserving embedding strategies, and systematic model benchmarking. State-of-the-art sentiment classifier: 0.84 accuracy, 0.83 Macro-F1.
+
+**RUDaSA: Roman Urdu Dataset for Sentiment Analysis — A Large-Scale, Curated Corpus with Privacy-Preserving Embeddings and Competitive Benchmarking of Transformer Models**
+`DOI: 10.21203/rs.3.rs-9827763/v1`
+RUDaSA is a large-scale Roman Urdu sentiment analysis benchmark that provides privacy-preserving embeddings and evaluates state-of-the-art transformer models to advance NLP research for low-resource and code-mixed languages.
 
 **SecureCipher v2.0: 10-Dimensional Hyperchaotic Image Encryption with ECC Key Generation and Double HMAC Authentication**
 `Manuscript in preparation`
