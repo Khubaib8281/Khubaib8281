@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Khubaib Ahmad</h1>
 
 <p align="center">
-  <strong>AI Research Engineer &nbsp;·&nbsp; Founder, INFERENCE LAB &nbsp;·&nbsp; Low-Resource NLP &nbsp;·&nbsp; Speech Intelligence &nbsp;·&nbsp; LLM Engineering</strong>
+  <strong>AI Research Engineer &nbsp;·&nbsp; Founder, INFERENCE Lab &nbsp;·&nbsp; Low-Resource NLP &nbsp;·&nbsp; Speech Intelligence &nbsp;·&nbsp; LLM Engineering</strong>
 </p>
 
 <p align="center">
